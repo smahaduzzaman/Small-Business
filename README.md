@@ -1,1 +1,66 @@
-# Small-Business
+# Small Business Website
+
+This is a small business website designed by S M Ahaduzzaman. It contains several pages, including Home, About, Services, Blog, Portfolio, and Contact. The website is built using HTML, CSS, and the Bootstrap framework.
+Pages
+
+## Author Details:
+- Name: S M Ahaduzzaman
+- Theme: Small Business
+- Version: 1.0
+
+## Used Language:
+- html
+- CSS
+- Bootstrap Framework
+
+## The following pages are included in this website:
+
+- Home
+- About
+- Services
+- Blog
+- Portfolio
+- Contact
+
+## Features
+
+The website includes the following features:
+
+- Carousel slider on the Home page
+- Login and sign-up functionality
+- Contact form with email and phone number
+- Validations for form fields
+
+## Version
+
+The current version of this website is 1.0.
+Usage
+
+To view the website, simply open the index.html file in a web browser.
+Credits
+
+## The following resources were used in the creation of this website:
+
+- Bootstrap framework (https://getbootstrap.com/)
+- Font Awesome icons (https://fontawesome.com/)
+- Unsplash for stock photos (https://unsplash.com/)
+- Google Fonts for font styles (https://fonts.google.com/)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Installation
+
+To use this website, simply download the files and open the index.html file in a web browser.
+Contributing
+
+If you would like to contribute to this project, feel free to submit a pull request.
+Issues
+
+If you encounter any issues while using this website, please feel free to submit an issue in the GitHub repository.
+Contact
+
+If you have any questions or comments about this website, please feel free to contact S M Ahaduzzaman at [insert contact information here].
+
+Thank you for visiting this Small Business Website!
